@@ -4,7 +4,9 @@ A basic [chat spammer](https://www.youtube.com/watch?v=AXig_6Yf6G8) for Twitch.
 ![alt tag](https://raw.githubusercontent.com/qubard/TwitchSpammer/master/screenshot.png)
 
 # Requirements
-\>= Microsoft .NET 4.5
+- Microsoft .NET 4.5 +
+
+Don't remove any of the provided _WMPLib_ .dll files.
 
 # Configuration
 
