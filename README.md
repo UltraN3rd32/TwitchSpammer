@@ -6,7 +6,7 @@ A basic [chat spammer](https://www.youtube.com/watch?v=AXig_6Yf6G8) for Twitch.
 # Requirements
 - Microsoft .NET 4.5 +
 
-Don't remove any of the provided _WMPLib_ .dll files.
+Don't remove any of the provided **WMPLib** .dll files.
 
 # Configuration
 
