@@ -162,7 +162,7 @@ namespace TwitchSpammer
 
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("http://blueberrypancak.es");
+            System.Diagnostics.Process.Start("https://google.com");
         }
 
         private void linkLabel1_LinkClicked_1(object sender, LinkLabelLinkClickedEventArgs e)
